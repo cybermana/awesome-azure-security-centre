@@ -42,23 +42,37 @@ It's important to understand which Microsoft Cloud Service is available within w
 - [What's new in Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/whats-new) - Learn more about what's new in Microsoft Defender for Identity.
 - [What's new in Microsoft Defender for Office](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/whats-new-in-office-365-atp?view=o365-worldwide) - Learn more about what's new in Microsoft Defender for Office.
 
+## Technologies
+
+### Azure Security Center - Useful Resources
+
+- [Introduction to Azure Security Center](https://docs.microsoft.com/en-gb/azure/security-center/security-center-introduction)
+- [Readiness: Planning your Azure Security Center Roadmap](https://docs.microsoft.com/en-gb/azure/security-center/security-center-readiness-roadmap)
+- [Webinars: Azure Security Center in the Field (#ASCinthefield)](https://www.youtube.com/hashtag/ascinthefield)
+
+### Azure Security Center - Cloud Workload Protection
+
+- [Introduction to Azure Defender for App Service](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-app-service-introduction) - Understand how to provide native threat protection for Azure App Service.
+- [Introduction to Azure Defender for DNS](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-dns-introduction)
+- [Introduction to Azure Defender for Key Vault](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-key-vault-introduction)
+- [Introduction to Azure Defender for Kubernetes](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-kubernetes-introduction)
+- [Introduction to Azure Defender for Resource Manager](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-resource-manager-introduction)
+- [Introduction to Azure Defender for Servers](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-servers-introduction)
+- [Introduction to Azure Defender for SQL](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-sql-introduction)
+- [Introduction to Azure Defender for Storage](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-storage-introduction)
+
 ## Communities
 
 - [Tech Community: Azure Security Center](https://techcommunity.microsoft.com/t5/azure-security-center/bg-p/AzureSecurityCenterBlog)
 
-## Learning Resouces
+## Learning Resources
 
-### LEARN Azure Defender
-
+- [Azure Security Center Labs](https://github.com/Azure/Azure-Security-Center/tree/master/Labs) - Learn the A-Z of Azure Security Center with these hands-on labs
 - [Plan for cloud workload protections using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/what-is-azure-defender/)
 - [Explain cloud workload protections in Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/understand-azure-defender-cloud-workload-protection/)
 - [Connect Azure assets to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-azure-assets-to-azure-defender/)
 - [Connect non-Azure resources to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-non-azure-machines-to-azure-defender/)
 - [Remediate security alerts using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/remediate-azure-defender-security-alerts/)
-
-#### LEARN Azure Security Center
-
-COMING SOON
 
 ## Contribute
 
