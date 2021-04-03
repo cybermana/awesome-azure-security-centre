@@ -36,11 +36,9 @@ It's important to understand which Microsoft Cloud Service is available within w
 
 ### Updates and Roadmaps
 
-- [**Roadmap**: Microsoft 365](https://www.microsoft.com/en-gb/microsoft-365/roadmap?filters=) - Learn more about the Microsoft 365 roadmap and what is in the pipeline for the future.
-- [What's new in Microsoft Cloud App Security?](https://docs.microsoft.com/en-us/cloud-app-security/release-notes) - Learn more about what's new in Microsoft Cloud App Security.
-- [What's new in Microsoft Defender for Endpoint?](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/whats-new-in-microsoft-defender-atp) - Learn more about what's new in Microsoft Defender for Endpoint.
-- [What's new in Defender for Identity](https://docs.microsoft.com/en-us/defender-for-identity/whats-new) - Learn more about what's new in Microsoft Defender for Identity.
-- [What's new in Microsoft Defender for Office](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/whats-new-in-office-365-atp?view=o365-worldwide) - Learn more about what's new in Microsoft Defender for Office.
+- [Roadmap: Azure Security Center](https://azure.microsoft.com/en-us/updates/?category=security&query=azure%20security%20center) - Learn more about the Azure roadmap and what is in the pipeline for the future.
+- [What's new in Azure Security Center?](https://docs.microsoft.com/en-us/azure/security-center/release-notes) - Learn more about what's new in Microsoft Azure Security Center.
+- [Important upcoming changes to Azure Security Center?](https://docs.microsoft.com/en-us/azure/security-center/upcoming-changes) - Learn more about what's upcoming with Azure Security Center.
 
 ## Technologies
 
@@ -52,7 +50,7 @@ It's important to understand which Microsoft Cloud Service is available within w
 
 ### Azure Security Center - Cloud Workload Protection
 
-- [Introduction to Azure Defender for App Service](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-app-service-introduction) - Understand how to provide native threat protection for Azure App Service.
+- [Introduction to Azure Defender for App Service](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-app-service-introduction)
 - [Introduction to Azure Defender for DNS](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-dns-introduction)
 - [Introduction to Azure Defender for Key Vault](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-key-vault-introduction)
 - [Introduction to Azure Defender for Kubernetes](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-kubernetes-introduction)
