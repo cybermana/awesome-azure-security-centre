@@ -32,7 +32,6 @@ It's important to understand which Microsoft Cloud Service is available within w
 
 - [Azure Data Centre Locations](https://azure.microsoft.com/en-gb/global-infrastructure/geographies/) - Learn more about where the Microsoft data centres are located and how that may impact your cloud journey.
 - [Azure Products by Region](https://azure.microsoft.com/en-us/global-infrastructure/services/) - Learn more about which Microsoft products are available in which Microsoft Data Centre.
-- [Microsoft 365 International Availability](https://www.microsoft.com/en-gb/microsoft-365/business/international-availability) - Understand the international availability of Microsoft 365 services.
 
 ### Updates and Roadmaps
 
@@ -47,9 +46,20 @@ It's important to understand which Microsoft Cloud Service is available within w
 - [Introduction to Azure Security Center](https://docs.microsoft.com/en-gb/azure/security-center/security-center-introduction)
 - [Readiness: Planning your Azure Security Center Roadmap](https://docs.microsoft.com/en-gb/azure/security-center/security-center-readiness-roadmap)
 - [Webinars: Azure Security Center in the Field (#ASCinthefield)](https://www.youtube.com/hashtag/ascinthefield)
+- [Azure Security Center documentation](https://docs.microsoft.com/en-us/azure/security-center/)
+- [Azure Security Planning and Operations Guide](https://docs.microsoft.com/en-us/azure/security-center/security-center-planning-and-operations-guide)
+- [Azure Security Center Supported Platforms](https://docs.microsoft.com/en-us/azure/security-center/security-center-os-coverage)
 
-### Azure Security Center - Cloud Workload Protection
+### Azure Security Center - Cloud Security Posture Management (CSPM)
 
+- [Understanding Secure Score in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/secure-score-security-controls)
+- [Secure Score Security Recommendations Reference Guide](https://docs.microsoft.com/en-us/azure/security-center/recommendations-reference)
+- [Managing Azure Security Center Security Policies](https://docs.microsoft.com/en-us/azure/security-center/tutorial-security-policy)
+- [Improving regulatory compliance with Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-compliance-dashboard)
+
+### Azure Security Center - Cloud Workload Protection (CWP)
+
+- [Introduction to Azure Defender](https://docs.microsoft.com/en-us/azure/security-center/azure-defender)
 - [Introduction to Azure Defender for App Service](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-app-service-introduction)
 - [Introduction to Azure Defender for DNS](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-dns-introduction)
 - [Introduction to Azure Defender for Key Vault](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-key-vault-introduction)
@@ -58,6 +68,10 @@ It's important to understand which Microsoft Cloud Service is available within w
 - [Introduction to Azure Defender for Servers](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-servers-introduction)
 - [Introduction to Azure Defender for SQL](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-sql-introduction)
 - [Introduction to Azure Defender for Storage](https://docs.microsoft.com/en-gb/azure/security-center/defender-for-storage-introduction)
+- [Azure Security Center feature coverage across platforms](https://docs.microsoft.com/en-us/azure/security-center/security-center-services?tabs=features-windows)
+- [Connecting Azure Defender alert data to Azure Security Center](https://docs.microsoft.com/en-us/azure/sentinel/connect-azure-security-center)
+- [Security alerts and incidents in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-alerts-overview#cloud-smart-alert-correlation-in-azure-security-center-incidents)
+- [Azure Security Center Security Alert Reference Guide](https://docs.microsoft.com/en-us/azure/security-center/alerts-reference)
 
 ## Communities
 
@@ -71,6 +85,7 @@ It's important to understand which Microsoft Cloud Service is available within w
 - [Connect Azure assets to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-azure-assets-to-azure-defender/)
 - [Connect non-Azure resources to Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/connect-non-azure-machines-to-azure-defender/)
 - [Remediate security alerts using Azure Defender](https://docs.microsoft.com/en-gb/learn/modules/remediate-azure-defender-security-alerts/)
+- [TUTORIAL: Triage, investigate and respond to security alerts in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/tutorial-security-incident)
 
 ## Contribute
 
